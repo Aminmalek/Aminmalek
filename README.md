@@ -22,8 +22,6 @@ functional teams.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-malek-mohammadi-28464994)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:aminmalek5@gmail.com)
 
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminmalek&layout=compact&theme=tokyonight&hide_border=true" width="70%" >
 
 ### Back-End Skills:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
