@@ -6,7 +6,7 @@ and efficient APIs. Skilled in database design and optimization, RESTful API dev
 DevOps orations. Proficient in agile development methodologies and collaboration with cross-
 functional teams.
 
-- 🔭 I’m currently working on a Java based project
+- 🔭 I’m currently working on SirixDB sirix.io
 - 🌱 I’m currently learning spring ecosystem, algorthims, data structures
 - 👯 I’m looking to collaborate on Java based projects
 
