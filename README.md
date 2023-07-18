@@ -9,7 +9,7 @@ functional teams.
 - 🔭 I’m currently working on [SirixDB](https://sirix.io)
 - 🌱 I’m currently learning spring ecosystem, Java, Algorthims, Data Structures
 - 👯 I’m looking to collaborate on Java based projects
-
+- Follow my telegram channel [@SoftSympo](https://t.me/softsympo)
 ---
 
 <p float="left">
