@@ -6,9 +6,9 @@ and efficient APIs. Skilled in database design and optimization, RESTful API dev
 DevOps orations. Proficient in agile development methodologies and collaboration with cross-
 functional teams.
 
-- 🔭 I’m currently working on [SirixDB](https://sirix.io)
-- 🌱 I’m currently learning spring ecosystem, Java, Algorthims, Data Structures
-- 👯 I’m looking to collaborate on Java based projects
+- 🔭 I’m currently working on [White Witch]([https://sirix.io](https://github.com/Aminmalek/white-witch))
+- 🌱 I’m currently learning  Algorthims, Data Structures
+- 👯 I’m looking to collaborate on Java or python based projects
 - Follow my telegram channel [@SoftSympo](https://t.me/softsympo)
 ---
 
